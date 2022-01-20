@@ -9,8 +9,8 @@ In this repository, you will be able see:
 |   └── 2010.csv               (Orginal Dataset)
 |   └── modifiedDataset.csv    (Modified Dataset)
 |
-├── Project Source Code        (ipynb notebook)
-├── Project Documentation  
+├── Project Documentation
+├── Project Source Code        (ipynb notebook)  
    
 ```
 ## Dataset
