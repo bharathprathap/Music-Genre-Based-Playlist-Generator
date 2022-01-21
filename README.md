@@ -1,7 +1,7 @@
 # Music-Genre-Based-Playlist-Generator
 A machine learning model to sort and create  playlist classified based on different genres made by analyzing various mood factors like danceability, loudness etc in a song.
 
-For detailed info, refer the project documentation : [Documentation](https://github.com/bharathprathap/Music-Genre-Based-Playlist-Generator/blob/main/Project%20Documentation.pdf)
+For detailed info, refer the project [documentation](https://github.com/bharathprathap/Music-Genre-Based-Playlist-Generator/blob/main/Project%20Documentation.pdf)
 
 In this repository, you will be able see:
 ```
