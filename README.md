@@ -1,7 +1,7 @@
 # Music-Genre-Based-Playlist-Generator
 A machine learning model to sort and create  playlist classified based on different genres made by analyzing various mood factors like danceability, loudness etc in a song.
 
-For detailed info, refer the project documentation : https://bit.ly/3GMdaKf
+For detailed info, refer the project documentation : [Documentation](https://github.com/bharathprathap/Music-Genre-Based-Playlist-Generator/blob/main/Project%20Documentation.pdf)
 
 In this repository, you will be able see:
 ```
@@ -14,8 +14,7 @@ In this repository, you will be able see:
    
 ```
 ## Dataset
-Source : Kaggle
-[ https://www.kaggle.com/cnic92/spotify-past-decades-songs-50s10s?select=2010.csv ]
+Source : [Kaggle](https://www.kaggle.com/cnic92/spotify-past-decades-songs-50s10s?select=2010.csv)
 
 The datasets used in the project are the data derived from the spotify API derived from various
 sources like Kaggle. The datasets contain details about various moods that a song possesses
